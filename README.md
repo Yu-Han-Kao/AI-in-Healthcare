@@ -1,5 +1,4 @@
 # AI-in-Healthcare
-
 How Explainability and Trust Shape User Acceptance of AI in Healthcare
 
 To explore the adoption of AI in healthcare, this study applies the extended Technology Acceptance Model (TAM) to investigate how AI explanations and trust affect users' acceptance of AI doctors in a virtual reality (VR) consultation environment. Participants were randomly assigned to a basic or detailed explanation group and completed self-reported questionnaires and physiological measurements. The collected data were analysed using regression analysis, Random Forest models, and Large Language Models (LLMs).
